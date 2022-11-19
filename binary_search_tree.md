@@ -14,15 +14,15 @@ Sonrasında 1, 5-den küçük olduğu için 5-in soluna gelecek.
 
                							5          
 
-         			                1				7    
+         			          1				7    
 
 Sonrasında 8, 5-den büyük olduğu için 5-in sağına geçecek, 7-den büyük olduğu için de sağına yazılacak.
 
            								5          
 
-     							1				7  
+     							    1				7  
 
-                                                        8
+                                  8
 
 Sonrasında 3, 5-den küçük olduğu için 5-in soluna geçecek, 1-den büyük olduğu için de sağına yazılacak.
 
@@ -30,15 +30,15 @@ Sonrasında 3, 5-den küçük olduğu için 5-in soluna geçecek, 1-den büyük 
 
     							1				7  
 
-            	                     3			    8
+            	        3			  8
 
 Sonrasında 6, 5-den büyük olduğu için 5-in sağına geçecek, 7-den küçük olduğu için de soluna yazılacak.
 
 	   									5          
 
-								1				7  
+								1				      7  
 
-	    	                		3		6		8
+	    	          3		6		      8
 
 Sonrasında 0, 5-den küçük olduğu için 5-in soluna geçecek, 1-den küçük olduğu için de soluna yazılacak.
 
@@ -72,8 +72,8 @@ Sonrasında 2, 5-den küçük olduğu için 5-in soluna geçecek, 1-den büyük 
 
 									  	 5          
 
-								1						7  
+						   1						        7  
 
-	      		      	   0		 3			   6		 8
+	      	0		       3		    6		       8
 
-	      	       				 2	     4						9
+	      	       2	       4						     9
