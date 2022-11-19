@@ -60,20 +60,26 @@ Sonrasında 9, 5-den büyük olduğu için 5-in sağına geçecek, 7-den büyük
 
 Sonrasında 4, 5-den küçük olduğu için 5-in soluna geçecek, 1-den büyük olduğu için sağına geçecek. 3-den de büyük olduğu için sağına yazılacak.
 
-										   5          
+5          
 
-								1						7  
+1						        7  
 
-		      		       0		3			   6		 8
+0		       3		    6		       8
 
-		      	       					4						9
+2	       4						     9
 
 Sonrasında 2, 5-den küçük olduğu için 5-in soluna geçecek, 1-den büyük olduğu için sağına geçecek. 3-den küçük olduğu için soluna yazılacak.
 
-									  	 5          
 
-						   1						        7  
-
-	      	0		       3		    6		       8
-
-	      	       2	       4						     9
+                 5          
+                / \
+               /   \
+              /     \
+             /       \
+            1         7       
+           / \       / \
+          /   \     /   \
+         0     3   6     8    
+              /   /       \   
+             /   /         \
+            2   4           9
